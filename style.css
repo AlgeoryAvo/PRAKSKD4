@@ -1,0 +1,29 @@
+textarea {
+	width: 500;
+	height: 80;
+	background-color: yellow;
+	color: #8B4513;
+}
+
+input {
+	font-family: inherit;
+}
+
+.button {
+	width: 120;
+	height: 60;
+	background-color: #4682b4;
+	color: #00008b;
+}
+
+
+
+body {
+	background-color: midnightblue;
+
+}
+
+table {
+	border-color : blue;
+	background-color: royalblue;
+}
